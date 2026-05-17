@@ -1,1 +1,4 @@
-# UNIF
+Workforce Attrition Patterns and Risk Hotspot Analysis at Palo Alto Networks
+This project analyzes employee attrition patterns at Palo Alto Networks, a leading cybersecurity organization, using HR data of 1,470 employees. The goal is to identify which departments, job roles, age groups, and workload conditions contribute most to employee exits — enabling HR leadership to shift from reactive to data-driven retention strategies.
+The analysis covers five key dimensions: department and role-wise attrition, demographic trends, tenure and career stage patterns, and workload factors like overtime and business travel. Key findings reveal an overall attrition rate of 28.9%, with the Sales department, early-career employees, and overtime workers emerging as the highest-risk segments.
+Deliverables include a full exploratory data analysis, an interactive Streamlit dashboard for live filtering and visualization, and a structured research paper with actionable HR recommendations.
